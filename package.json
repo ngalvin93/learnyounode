@@ -1,0 +1,23 @@
+{
+  "name": "091019_learnyounode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngalvin93/learnyounode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngalvin93/learnyounode/issues"
+  },
+  "homepage": "https://github.com/ngalvin93/learnyounode#readme",
+  "dependencies": {
+    "bl": "3.0.0"
+  }
+}
